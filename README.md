@@ -2,7 +2,6 @@
 - 👀 I’m interested in Data & Analytics and Python coding.
 - 🌱 I’m currently learning Data Science and Machine Learning to trasition into a Data Scientist role. I am enrolled in IBM Professional Data Science Certification program on Coursera. 
 - 💞️ I’m looking to collaborate on Data Science projects with the aim of developing products that have a positive impact on the quality of life on our planet.
-- I am develop a progra
 - 📫 Email me: vxsharma14@gmail.com
 
 <!---
