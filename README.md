@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Vishal Sharma.
-- 👀 I’m interested in Data & Analytics and Python coding.
-- 🌱 I’m currently learning Data Science and Machine Learning to trasition into a Data Scientist role. I am enrolled in IBM Professional Data Science Certification program on Coursera. 
-- 💞️ I’m looking to collaborate on Data Science projects with the aim of developing products that have a positive impact on the quality of life on our planet.
+- 👀 I use my Python skills to provide analytics and insights into business trends through my freelancing.
+- 🔭 I create content related to Python and Data Science for beginners.
+- 🌱 I’m learning Machine Learning techniques through Kaggle competitions.
+- 💞️ I’m looking to collaborate with other Data Science practitioners.
 - 📫 Email me: vxsharma14@gmail.com
 
 <!---
