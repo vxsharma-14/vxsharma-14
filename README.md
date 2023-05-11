@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dr. Vishal Sharma.
-- 👀 I offer tailored data analytics, data engineering, and machine learning solutions using strategic research and analytics for startups in retail through my Agency.
+- 👀 I offer tailored data analytics, big data, and machine learning solutions using strategic research and analytics for startups in retail through my Agency.
 - 🔭 I create content related to Python and Data Science.
 - 🌱 I’m learning advanced Neural Network techniques.
 - 💞️ I’m looking to collaborate with other Data Science practitioners.
